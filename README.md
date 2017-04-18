@@ -1,3 +1,4 @@
+# Prática de Integração Contínua
 
 O objetivo desta prática é aprender como configurar o Travis CI para fazer a integração contínua do projeto da disciplina em **3** ambientes distintos.
 
