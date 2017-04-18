@@ -19,7 +19,7 @@ Essa branch vai receber versões parciais da aplicação, vindos a partir de mer
 
 A branch master vai armazenar apenas versões '**RELEASE**', ou seja, que estão prontas para **uso**. Sendo assim, ela deve receber merge de outras branches por meio de estratégia [`no-ff`] e ter `tags` para indicar que há uma nova versão lançada.
 
-A configuração do Travis CI para realizar build apenas com tags pode ser encontrado em https://github.com/ads-ifpb-praticas/exemplo-profiles.
+A configuração do Travis CI para realizar build apenas com tags pode ser encontrado em https://github.com/ads-ifpb-praticas/exemplo-bintray.
 
 ## Observações
 
